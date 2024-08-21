@@ -11,6 +11,6 @@ package com.mycompany.segregacioninterfaces;
 public class SegregacionInterfaces {
 
     public static void main(String[] args) {
-        System.out.println("Hello !");
+        System.out.println("Hello 1!");
     }
 }
